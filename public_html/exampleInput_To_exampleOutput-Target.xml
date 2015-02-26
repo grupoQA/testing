@@ -1,0 +1,5 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<inp1:exampleOutput xmlns:inp1="http://www.example.org">
+   <inp1:nombre>nombre1</inp1:nombre>
+   <inp1:texto>es bobo</inp1:texto>
+</inp1:exampleOutput>
